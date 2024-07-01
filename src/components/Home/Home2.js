@@ -37,12 +37,12 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for learning new technologies
-              with <b className="purple">AWS</b> and
+             I also apply my passion for learning new technologies
+              with <b className="purple">AWS</b> 
               <i>
                 <b className="purple">
                   {" "}
-                  Amazon Web Services
+                  
                 </b>
               </i>
               &nbsp; &
