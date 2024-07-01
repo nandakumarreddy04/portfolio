@@ -23,13 +23,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript  </b>
+                <b className="purple"> AWS , Docker , Kubernetes , Grafana , LOKI , Python , C++ & Javascript  </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Devops Technologies  </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   AI.
@@ -37,17 +37,17 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I also apply my passion for learning new technologies
+              with <b className="purple">AWS</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Amazon Web Services
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js </b>
+                <b className="purple"> Kubernetes </b>
               </i>
             </p>
           </Col>
