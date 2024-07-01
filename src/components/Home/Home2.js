@@ -45,7 +45,7 @@ function Home2() {
                   Amazon Web Services
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; &
               <i>
                 <b className="purple"> Kubernetes </b>
               </i>
