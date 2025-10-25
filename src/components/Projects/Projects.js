@@ -30,7 +30,7 @@ function Projects() {
                 payment, etc.) and Payment through Credit Card
 "
               ghLink="https://github.com/nandakumarreddy04/Best_Buy-official_online_store"
-              demoLink="https://plain-hoodie-foal.cyclic.app/"
+              demoLink="https://bestbuy-official.vercel.app/"
             />
           </Col>
 
