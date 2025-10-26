@@ -6,6 +6,7 @@ import bestbuy from "../../Assets/Projects/bestbuy.png";
 import yelpcamp from "../../Assets/Projects/yelpcamp.png";
 import moonflix from "../../Assets/Projects/moonflix.png";
 import bookhub from "../../Assets/Projects/bookhub.png";
+import interviewai from "../../Assets/Projects/interviewai.png";
 
 function Projects() {
   return (
