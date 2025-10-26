@@ -25,11 +25,13 @@ function Projects() {
               imgPath={interviewai}
               isBlog={false}
               title="Interview.ai"
-              description=" Generates dynamic, role-specific interview questions using the Gemini AI API.
-              Users can answer questions verbally; the application uses speech-to-text to transcribe their responses for feedback.   Secure user authentication and a personal dashboard to track and review past interview sessions.    Built with a modern, component-based architecture and deployed globally via Firebase Hosting.
-"
-              ghLink="https://github.com/nandakumarreddy04/interview-ai"
-              demoLink="https://interview-ai-54140.web.app/
+              description="Generates dynamic, role-specific interview questions using the Gemini AI API.
+    Users can answer questions verbally; the application uses speech-to-text to transcribe their responses for feedback.
+    Secure user authentication and a personal dashboard to track and review past interview sessions.
+    Built with a modern, component-based architecture and deployed globally via Firebase Hosting."
+         
+                ghLink="https://github.com/nandakumarreddy04/interview-ai"
+                demoLink="https://interview-ai-54140.web.app/"
             />
           </Col>
                 
