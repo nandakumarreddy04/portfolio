@@ -19,7 +19,20 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={interviewai}
+              isBlog={false}
+              title="Interview.ai"
+              description=" Generates dynamic, role-specific interview questions using the Gemini AI API.
+              Users can answer questions verbally; the application uses speech-to-text to transcribe their responses for feedback.   Secure user authentication and a personal dashboard to track and review past interview sessions.    Built with a modern, component-based architecture and deployed globally via Firebase Hosting.
+"
+              ghLink="https://github.com/nandakumarreddy04/interview-ai"
+              demoLink="https://interview-ai-54140.web.app/
+            />
+          </Col>
+                
+            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bestbuy}
               isBlog={false}
